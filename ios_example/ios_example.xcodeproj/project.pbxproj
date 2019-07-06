@@ -54,6 +54,7 @@
 		0671129722D0F11C00C97FD5 /* ios_example */ = {
 			isa = PBXGroup;
 			children = (
+				067112AD22D0FEE900C97FD5 /* Classes */,
 				0671129822D0F11C00C97FD5 /* AppDelegate.swift */,
 				0671129A22D0F11C00C97FD5 /* ViewController.swift */,
 				0671129C22D0F11C00C97FD5 /* Main.storyboard */,
@@ -62,6 +63,61 @@
 				067112A422D0F11D00C97FD5 /* Info.plist */,
 			);
 			path = ios_example;
+			sourceTree = "<group>";
+		};
+		067112AD22D0FEE900C97FD5 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				067112B322D0FEE900C97FD5 /* Main */,
+				067112AE22D0FEE900C97FD5 /* Home */,
+				067112B222D0FEE900C97FD5 /* Live */,
+				067112B022D0FEE900C97FD5 /* Follow */,
+				067112B122D0FEE900C97FD5 /* Profile */,
+				067112AF22D0FEE900C97FD5 /* Tools */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		067112AE22D0FEE900C97FD5 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		067112AF22D0FEE900C97FD5 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		067112B022D0FEE900C97FD5 /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
+			sourceTree = "<group>";
+		};
+		067112B122D0FEE900C97FD5 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		067112B222D0FEE900C97FD5 /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		067112B322D0FEE900C97FD5 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
